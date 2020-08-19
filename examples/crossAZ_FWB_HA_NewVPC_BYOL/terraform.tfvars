@@ -1,0 +1,17 @@
+access_key = "access key"
+secret_key = "secret key"
+
+region = "cn-northwest-1"
+availability_zone1 = "cn-northwest-1a"
+availability_zone2 = "cn-northwest-1b"
+availability_zone3 = "cn-northwest-1c"
+
+instance_type = "c5.large"
+keypair = "mjchen-ningxia"
+cidr_for_access="0.0.0.0/0"
+license_type = "byol"
+fwb1_byol_license = "fwb1-license.lic"
+fwb2_byol_license = "fwb2-license.lic"
+tag_name_prefix = "mjchen"
+fwb1_public_ip = "192.168.1.111"
+fwb2_public_ip = "192.168.11.111"
